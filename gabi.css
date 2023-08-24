@@ -1,0 +1,26 @@
+h1 {
+    text-align:center;
+    background-color: rgb(233, 176, 223);
+}
+h2{
+    background-color: rgb(141, 231, 253);
+    font-style: oblique;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+body {
+    background-color: rgb(210, 163, 255);
+}
+.conceito {
+    background-color: rgb(171, 134, 182)
+    color: blueviolet
+}
+.dicas {
+    background-color: rgba(243, 93, 243, 0.774)
+}
