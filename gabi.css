@@ -1,5 +1,4 @@
-h1 {
-    text-align:center;
+text-align:center;
     background-color: rgb(233, 176, 223);
 }
 h2{
@@ -23,4 +22,7 @@ body {
 }
 .dicas {
     background-color: rgba(243, 93, 243, 0.774)
+}
+.imagem1 {
+    width: 650px;
 }
