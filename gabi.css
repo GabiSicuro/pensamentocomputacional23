@@ -3,8 +3,8 @@ h1{
     text-align: center;
 }
 
-    text-align:center;
-    background-color: rgb(233, 176, 223);  
+text-align:center
+
 
 h2{
     background-color: rgb(111, 214, 255);
@@ -23,13 +23,14 @@ body {
 }
 .conceito {
     background-color: rgb(223, 182, 236)
-    color: blueviolet
+    color blueviolet
 }
 .dicas {
     background-color: rgba(243, 93, 243, 0.774)
 }
 .imagem1 {
     width: 500px;
+    text-align: center;
 }
 .lista {
     display: inline-block;
