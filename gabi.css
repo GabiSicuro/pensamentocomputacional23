@@ -1,5 +1,5 @@
 h1{
-    background-color: rgb(255, 0, 200);
+    background-color: rgb (255, 0, 200);
     text-align: center;
 }
 
@@ -7,7 +7,7 @@ text-align:center
 
 
 h2{
-    background-color: rgb(111, 214, 255);
+    background-color: rgb (111, 214, 255);
     font-style: oblique;
 }
 
@@ -19,23 +19,23 @@ strong {
     font-size: larger;
 }
 body {
-    background-color: rgb(215, 184, 245);
+    background-color: rgb (215, 184, 245);
 }
 .conceito {
-    background-color: rgb(223, 182, 236)
+    background-color: rgb (223, 182, 236)
     color blueviolet
 }
 .dicas {
-    background-color: rgba(243, 93, 243, 0.774)
+    background-color: rgba (243, 93, 243, 0.774)
 }
 .imagem1 {
-    width: 500px;
+    width: 500 px;
     text-align: center;
 }
 .lista {
     display: inline-block;
-    padding: 2%;
-    margin-right: 15%;
+    padding: 2 %;
+    margin-right: 15 %;
     font-size: medium;
 }
 h3{
