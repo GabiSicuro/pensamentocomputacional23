@@ -1,0 +1,19 @@
+h2{
+    background-color: rgb (111, 214, 255);
+    font-style: oblique;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+body {
+    background-color: rgb (215, 184, 245);
+}
+.imagem2 {
+    width: 900 px;
+    text-align: center;
+}
