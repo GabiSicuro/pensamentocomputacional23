@@ -34,4 +34,8 @@ body {
     .centralizar {
         text-align: center;
         width: 30%;
+        border-color: rgb(204, 95, 255);
+        border-width: 10px;
+        border-style: solid;
     }
+
