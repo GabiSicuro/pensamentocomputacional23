@@ -14,28 +14,23 @@ h2{
     font-style: oblique;
     text-align: center;
 }
-
-p {
+.centralizar {
     text-align: center;
-    font-size: medium;
+    color: rgb(99, 0, 66);
 }
-strong {
-    font-size: larger;
+.imagem1 {
+    width: 45%;
 }
-body {
-    background-color: rgb (215, 184, 245);
-}
-.lista li {
-    display: inline-block;
-    vertical-align: top;
-    margin: o 1.5%;
-    padding: 30px 20px;}
 
-    .centralizar {
-        text-align: center;
-        width: 30%;
-        border-color: rgb(204, 95, 255);
-        border-width: 10px;
-        border-style: solid;
-    }
-
+.centralizar{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: pink;
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color: pink;
+}
